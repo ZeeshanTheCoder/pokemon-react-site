@@ -15,6 +15,10 @@ This project is a simple Pokemon listing website built with React. I created thi
 - CSS
 - PokeAPI
 
+## Future Improvements
+- Dark Theme/Light Theme
+- Move on Next JS
+
 ## Live Demo
 Check out the live website here: [https://pokemon-react-site.netlify.app/](https://pokemon-react-site.netlify.app/)
 
